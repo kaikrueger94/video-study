@@ -1,9 +1,15 @@
 const videos = [
-  "https://www.dropbox.com/scl/fi/7pbujguge3rtvc5mx9x33/v1.mp4?rlkey=2n58up8xv33rhmvg3omnkxshv&st=5ryvred5&raw=1"
+const videos = [
+"https://www.dropbox.com/scl/fi/7pbujguge3rtvc5mx9x33/v1.mp4?rlkey=2n58up8xv33rhmvg3omnkxshv&st=5ryvred5&raw=1"
+
 "https://www.dropbox.com/scl/fi/wty6s173bpctj6r86qges/v2.mp4?rlkey=xg2wxrrkvhnlhtm30ihxun554&st=k5bzalmv&raw=1"
+
 "https://www.dropbox.com/scl/fi/uv8ijgulfhxopzc2fw41o/v3.mp4?rlkey=29dsw8w59xcxemtxsw2qnx0d7&st=5u82efxe&raw=1"
+
 "https://www.dropbox.com/scl/fi/d0xdwhmn6lhtu76gillp6/v4.mp4?rlkey=7cpt35gndxv195c5ebtedk08c&st=aydnfx5i&raw=1"
+
 "https://www.dropbox.com/scl/fi/3k7atxcnsvdllxsm7x2xo/v5.mp4?rlkey=7kf2dacln59l5vamm835wenu4&st=vak43jw9&raw=1"
+
 ];
 
 function shuffle(array) {
